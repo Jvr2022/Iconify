@@ -1,47 +1,47 @@
-<p><b style="color: dodgerblue;">Iconify</b> is an open-source android mobile application, aimed at providing users with the ability to customize various aspects of their device's user interface.</p>
+<p><b style="color: dodgerblue;">Iconify</b> is an open-source Android mobile application designed to empower users by allowing customization of various aspects of their device's user interface.</p>
 <br>
-<p>Iconify was mainly created as a substratum theme to change the system icons of any aosp rom. After some time, I converted it to use as magisk module with Terminal GUI integration. But then I got bored of using substratum and terminal gui. Applying overlays without any previews made me frustrated. So I decided to make it easier for me by creating an application where I can see the previews and change anything I want. This was totally for my personal use but as people showed interest, I decided to release it in public.</p>
+<p>Originally conceived as a Substratum theme to modify system icons on any AOSP ROM, Iconify evolved over time. It transitioned into a Magisk module with Terminal GUI integration. However, the limitations of Substratum and Terminal GUI—such as applying overlays without previews—led to frustration. To simplify customization, I developed an application solely for personal use. Encouraged by public interest, I subsequently released Iconify to the wider community.</p>
 <p>
 	<b>Features:</b>
 </p>
-<p>What can you change using Iconify?</p>
+<p>Iconify allows you to customize:</p>
 <ul>
 	<li>Solid or Gradient Colors</li>
 	<li>System Icon Packs</li>
 	<li>Brightness Bar Style</li>
 	<li>QS Tile Shapes</li>
-	<li>QS Panel Row & Column</li>
-	<li>QS Panel Icon & Label</li>
+	<li>QS Panel Rows & Columns</li>
+	<li>QS Panel Icons & Labels</li>
 	<li>Notification Style</li>
 	<li>Media Player Style</li>
 	<li>Volume Panel Style</li>
-	<li>And many more...</li>
+	<li>And much more...</li>
 </ul>
 <p>
 	<b>Requirements:</b>
 </p>
 <ul>
-	<li>Android 12+ Pixel / AOSP Based Custom Rom</li>
+	<li>Android 12+ Pixel / AOSP Based Custom ROM</li>
 	<li>Magisk (Recommended) or KernelSU</li>
 	<li>LSPosed (Optional)</li>
-	<li>Decryption Supported Custom Recovery (Just in case)</li>
+	<li>Custom Recovery with Decryption Support (for emergencies)</li>
 </ul>
 <p>
 	<b>Instructions:</b>
 </p>
 <ul>
 	<li>Install and open the app</li>
-	<li>Grant root permission</li>
-	<li>Click on <i>CONTINUE</i> button </li>
-	<li>Wait for it to finish loading</li>
-	<li>Reboot the device</li>
-	<li>Now just enable whatever you want from the app</li>
+	<li>Grant root permissions</li>
+	<li>Click <i>CONTINUE</i></li>
+	<li>Wait for the loading process to complete</li>
+	<li>Reboot your device</li>
+	<li>Enable desired customizations from within the app</li>
 </ul>
 <p>
 	<b>Disclaimer:</b>
 </p>
 <ul>
-	<li>Some roms might not be fully compatible with Iconify.</li>
-	<li>I won't be responsible if anything happens to your device.</li>
-	<li>Make sure you have custom recovery installed to revert changes if anything goes wrong.</li>
+	<li>Iconify may not be fully compatible with all ROMs.</li>
+	<li>The developer is not liable for any issues arising from the use of this application.</li>
+	<li>Ensure you have a custom recovery installed to revert changes if necessary.</li>
 </ul>
